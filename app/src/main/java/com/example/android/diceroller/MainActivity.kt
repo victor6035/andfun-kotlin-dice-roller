@@ -24,6 +24,8 @@ import java.util.*
 
 class MainActivity : AppCompatActivity() {
 
+    // estoy en dos
+
     lateinit var diceImage: ImageView
 
     override fun onCreate(savedInstanceState: Bundle?) {
